@@ -1,0 +1,17 @@
+streamlit>=1.40
+sqlalchemy==2.0.35
+pydantic>=2.9,<3
+email-validator>=2.2
+fastapi>=0.110
+python-multipart>=0.0.9
+python-jose>=3.3.0
+bcrypt>=4.0,<5
+python-dotenv>=1.0
+requests>=2.31
+pandas>=2.0
+openpyxl>=3.1
+reportlab>=4.0
+psycopg2-binary>=2.9
+segno>=1.6
+opencv-python-headless>=4.8
+numpy>=1.24
